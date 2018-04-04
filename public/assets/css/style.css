@@ -1,0 +1,38 @@
+/*Global*/
+* {
+    box-sizing: border-box;
+
+}
+
+#burg-form {
+    margin-left: 50px; 
+}
+
+button { 
+    margin: 5px;
+}
+
+#header img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+   }
+
+#header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+   }
+
+#header {
+    margin-bottom: 100px; 
+}
+
+
+
+#content {
+    margin: 50px; 
+}
+
+
